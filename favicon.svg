@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Less than three">
+  <style>
+    @media (prefers-color-scheme: dark) { .symbol { stroke: #ffffff; } }
+  </style>
+  <path class="symbol" d="M25 16L8 31L25 46M36 14H43C58 14 58 30 45 31C60 32 58 50 43 50H36" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
